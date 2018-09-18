@@ -11,7 +11,7 @@ Original git here: https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33a
 Original Tweet here: https://twitter.com/pwnsdx
 
 The page would be this:
-
+(but you can only see it with the right browser!)
 ![Alt text](https://github.com/JonnyBanana/safari-ie-reaper.github.io/blob/master/img/trolling%20studios.JPG)
 
 The Exploit it works on Safari and IE (and i think Edge) on Windows, Safari (Mac iPhone, iPad etc.),</BR>
